@@ -1,0 +1,76 @@
+Reporte de diagnóstico — data/raw/alojamientos_merlo_raw.csv
+Total de fichas cargadas: 62 (esperado: 62)
+
+== 1. Campos vacíos por columna ==
+  nombre_publicado      :   0 / 62 vacíos (0%)
+  categoria_publicada   :   0 / 62 vacíos (0%)
+  direccion_raw         :   0 / 62 vacíos (0%)
+  telefonos_raw         :   5 / 62 vacíos (8%)
+  email_raw             :  22 / 62 vacíos (35%)
+  instagram_raw         :  16 / 62 vacíos (26%)
+  web_raw               :  36 / 62 vacíos (58%)
+  etiquetas_raw         :   3 / 62 vacíos (5%)
+
+== 2. Categorías publicadas (valores únicos y conteo) ==
+  Cabañas             : 29
+  Vatt                : 20
+  Hotel               : 7
+  Hostería            : 3
+  Posada              : 2
+  Apart Hotel         : 1
+
+== 3. Etiquetas publicadas (valores únicos, separadas por ' | ') ==
+  Pileta              : 54
+  Pet Friendly        : 18
+  Pileta Climatizada  : 10
+  Accesible           : 4
+  Apto para Celíacos  : 2
+  Accesibilidad       : 2
+  Solo para adultos   : 1
+
+== 4. Formatos de teléfono encontrados ==
+  Total de números encontrados: 60
+    solo dígitos, 10 dígitos           : 34
+    con espacios/símbolos, 10 dígitos  : 12
+    con espacios/símbolos, 20 dígitos  : 5
+    con espacios/símbolos, 21 dígitos  : 3
+    con espacios/símbolos, 11 dígitos  : 2
+    solo dígitos, 11 dígitos           : 2
+    solo dígitos, 9 dígitos            : 1
+    solo dígitos, 12 dígitos           : 1
+  Números con cantidad de dígitos rara (revisar a mano):
+    Amancay: '2664020524 // 2664891627'
+    Burung Hantu: '2664259455 // 1126355548'
+    Epic Villa de Merlo: '2665 470800  / 2664577698'
+    Estilo MB: '0266 5295237 / 2656 470120'
+    Howard Johnson: '02656-473600  / 2664506986'
+    La Candela: '2664011832 // 01136053952'
+    Paradiso Hotel & Spa: '2664256208 Telefono fijo: 2656475118'
+    Rincón del Tomero: '116153-7904 (Evelyn) // 115843-5022  (Rita)'
+
+== 5. Emails con formato inválido ==
+  INVÁLIDO -> Barranca del Indio: 'barrancadelindiomerlo@gmail. com'
+  INVÁLIDO -> Complejo Los Espinillos de Merlo: 'complejolosespinillos@gmail. com'
+  INVÁLIDO -> Howard Johnson: 'Reservas@Hjmerlo.Com.Ar Ver Página'
+  INVÁLIDO -> La Soñada: 'info@cabaniaslasoniada.com Web: www.cabaniaslasoniada.com.ar'
+  INVÁLIDO -> Marisol Dolce: 'labonituramerlosanluis@gmail. com'
+  Emails con mayúsculas (candidatos a normalizar a minúsculas): 11
+    AHotel Decosuites: 'Hotelmerlosanluis@Gmail.Com'
+    Algarrobo: 'Hotelalgarrobo@Gmail.Com'
+    Casa Atardeceres: 'Casaatardeceres@Hotmail.Com'
+    Complejo Calas: 'Calasmerlo@Gmail.Com'
+    Complejo Galileo: 'Merlo.Galileo@Gmail.Com'
+    Dúplex El Remanso: 'Complejoremansomerlo@gmail.com'
+    El Cortijo: 'Reservas@Elcortijomerlo.Com.Ar'
+    Estilo MB: 'Hotelestilombmsl@Gmail.Com'
+    Los Damascos: 'DamianPresutti1@gmail.com'
+    Nona Olga: 'Haydblanco@Yahoo.Com.Ar'
+    Nona Olga II: 'Haydblanco@Yahoo.Com.Ar'
+
+== 6. Posibles duplicados dentro del propio directorio oficial ==
+  (comparando nombres normalizados, umbral de similitud >= 0.85)
+  'Ecos de las Sierras'  ~=  'Posada de las Sierras'   (similitud 0.85)
+  'Nona Olga'  ~=  'Nona Olga II'   (similitud 0.86)
+
+  Direcciones idénticas compartidas por más de una ficha:
+    'cerro champaqui 259' -> ['Complejo Calas', 'Complejo Entre Marte y la Luna']

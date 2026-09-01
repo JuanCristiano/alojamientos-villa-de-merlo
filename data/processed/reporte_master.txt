@@ -1,0 +1,16 @@
+Reporte del dataset maestro — alojamientos_master_clean.csv
+Total de filas: 196
+
+== Por estado de confirmación ==
+  134  Candidato no confirmado (aparece solo en OpenStreetMap)
+   35  Confirmado en directorio oficial y coincide con OpenStreetMap
+   27  Confirmado en directorio oficial
+
+RECORDATORIO para cualquier presentación de este dataset:
+  - 'Candidato no confirmado' NO significa 'no habilitado'. Solo significa
+    que no está en el directorio oficial de la Secretaría de Turismo.
+  - Los datos de OpenStreetMap requieren atribución obligatoria:
+    "Datos © colaboradores de OpenStreetMap, licencia ODbL"
+    https://www.openstreetmap.org/copyright
+  - Las filas con 'posible_duplicado' no vacío requieren revisión manual,
+    no fueron fusionadas automáticamente.

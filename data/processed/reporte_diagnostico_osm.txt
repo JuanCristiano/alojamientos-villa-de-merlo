@@ -1,0 +1,38 @@
+Reporte de diagnóstico — data/raw/alojamientos_osm_raw.csv
+Total de elementos: 189
+
+== 1. Elementos por tipo (tag 'tourism' de OSM) ==
+  chalet              : 114
+  hotel               : 52
+  hostel              : 15
+  camp_site           : 7
+  guest_house         : 1
+
+== 2. Elementos sin nombre cargado: 9 ==
+  tipo=chalet          osm_id=6316629686  https://www.openstreetmap.org/node/6316629686
+  tipo=camp_site       osm_id=12980419105  https://www.openstreetmap.org/node/12980419105
+  tipo=chalet          osm_id=1113439894  https://www.openstreetmap.org/way/1113439894
+  tipo=chalet          osm_id=1113439895  https://www.openstreetmap.org/way/1113439895
+  tipo=hotel           osm_id=1446822909  https://www.openstreetmap.org/way/1446822909
+  tipo=hotel           osm_id=1446827085  https://www.openstreetmap.org/way/1446827085
+  tipo=hotel           osm_id=1446827087  https://www.openstreetmap.org/way/1446827087
+  tipo=hotel           osm_id=1446827088  https://www.openstreetmap.org/way/1446827088
+  tipo=hotel           osm_id=1446827089  https://www.openstreetmap.org/way/1446827089
+
+== 3. Nombres que se repiten exactamente (3 nombres) ==
+  (posible señal de unidades sueltas de un mismo complejo cargadas por separado)
+  'Rahuen': aparece 3 veces
+  'El Refugio de los Pajaros': aparece 2 veces
+  'Posada Los Antiguos': aparece 2 veces
+
+== 4. Campos vacíos (sobre el total) ==
+  direccion_raw  :  66 / 189 vacíos (35%)
+  telefonos_raw  :  74 / 189 vacíos (39%)
+  email_raw      : 176 / 189 vacíos (93%)
+  web_raw        :  72 / 189 vacíos (38%)
+
+== 5. Resumen ==
+  Elementos totales:        189
+  Con nombre:                180
+  Nombres ÚNICOS con nombre: 176
+  (esta última cifra es la que de verdad importa para comparar contra las 62 oficiales)

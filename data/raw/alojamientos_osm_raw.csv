@@ -1,0 +1,190 @@
+nombre_publicado,categoria_publicada,direccion_raw,telefonos_raw,email_raw,instagram_raw,web_raw,etiquetas_raw,url_origen,fecha_extraccion,fuente,latitud,longitud,osm_id,osm_tipo_elemento
+Hostería Amancay,hotel,,,,,,,https://www.openstreetmap.org/node/1591598636,2026-09-01,openstreetmap,-32.3467852,-65.0057428,1591598636,node
+Hotel Colonial,hotel,,,,,,,https://www.openstreetmap.org/node/1591598638,2026-09-01,openstreetmap,-32.3444295,-64.9956015,1591598638,node
+Hotel Contilo,hotel,Villa de Merlo,,,,,,https://www.openstreetmap.org/node/1591598641,2026-09-01,openstreetmap,-32.3440821,-65.0105555,1591598641,node
+Hotel El Hornero,hotel,,,,,,,https://www.openstreetmap.org/node/1591598654,2026-09-01,openstreetmap,-32.3465623,-64.9947534,1591598654,node
+Hotel Mirasierras,hotel,"Pedernera, Villa de Merlo",+54 2656 475045,,,,,https://www.openstreetmap.org/node/1591598657,2026-09-01,openstreetmap,-32.3465172,-65.0093565,1591598657,node
+Hotel Valle del Sol,hotel,,,,,,,https://www.openstreetmap.org/node/1591598660,2026-09-01,openstreetmap,-32.3477784,-65.0108727,1591598660,node
+Hotel Villa de Merlo,hotel,"Pedernera, Villa de Merlo",+54 2656 475335,,,https://www.grupocanablaya.com.ar/villademerlo/,,https://www.openstreetmap.org/node/1591598663,2026-09-01,openstreetmap,-32.3445837,-65.0085475,1591598663,node
+La Barraca,hotel,,,,,,,https://www.openstreetmap.org/node/1591598668,2026-09-01,openstreetmap,-32.3394531,-64.989744,1591598668,node
+Planetario Hotel,hotel,,,,,,,https://www.openstreetmap.org/node/1591598669,2026-09-01,openstreetmap,-32.3471332,-64.9996952,1591598669,node
+Cabañas Agrippina,chalet,"Avenida de la Juventud, Villa de Merlo",+54 9 2664632541,agrippinamerlo@gmail.com,,http://www.agrippina.com.ar/,,https://www.openstreetmap.org/node/2306859768,2026-09-01,openstreetmap,-32.3316887,-65.0018629,2306859768,node
+Casa Grande HOSTEL,hostel,,,,,,,https://www.openstreetmap.org/node/2337660366,2026-09-01,openstreetmap,-32.3429502,-64.9960291,2337660366,node
+Barrancas del Sol,hotel,,,,,https://barrancadelsol.com.ar/,,https://www.openstreetmap.org/node/2577189192,2026-09-01,openstreetmap,-32.3342969,-65.0008401,2577189192,node
+Cabañas El Maitén,hotel,"Cerro de los Linderos 1281, Villa de Merlo",+54 2656 474368,,,https://www.argentinaturismo.com.ar/elmaitencabanas/,,https://www.openstreetmap.org/node/2578722536,2026-09-01,openstreetmap,-32.3527037,-64.996323,2578722536,node
+Complejo Brisa Serrana,hotel,"Marte 423, Merlo",+54 2656 47 3510,,,https://brisaserrana.com.ar/,,https://www.openstreetmap.org/node/2578786925,2026-09-01,openstreetmap,-32.34613,-65.0000941,2578786925,node
+Cerros del Sol,chalet,"Avenida Dos Venados 3500, Villa de Merlo",+54 266 4321368,claudiamatteomerlo@hotmail.com,,https://www.cerrosdelsolmerlo.com.ar/,,https://www.openstreetmap.org/node/2579530085,2026-09-01,openstreetmap,-32.3262019,-64.9998263,2579530085,node
+Corazón de Montaña,hotel,,+54 9 11 5409 4929,,,https://www.argentinaturismo.com.ar/corazondemontania/,,https://www.openstreetmap.org/node/2579572706,2026-09-01,openstreetmap,-32.3732853,-64.9895338,2579572706,node
+Cabañas El Jacarandá,chalet,Avenida de la Luna 649,+54 2656 47 9195,,,https://www.argentinaturismo.com.ar/jacaranda/,,https://www.openstreetmap.org/node/2579572717,2026-09-01,openstreetmap,-32.3435763,-65.0007046,2579572717,node
+La Victoria,chalet,Avenida José Alberto Mercau 50,+54 2656 47 8517,,,https://www.argentinaturismo.com.ar/lavictoria/,,https://www.openstreetmap.org/node/2579593621,2026-09-01,openstreetmap,-32.3509215,-64.9960404,2579593621,node
+Tijuana,hotel,"Pedernera 18, Villa de Merlo",+54 9 2657 61 7635,,,https://www.argentinaturismo.com.ar/tijuanacabanias/,,https://www.openstreetmap.org/node/2579600537,2026-09-01,openstreetmap,-32.3518342,-65.0084739,2579600537,node
+Las Mariposas,hotel,"Padre Pablo Tissera 1756, Villa de Merlo",+54 9 11 5726 8995,,,,,https://www.openstreetmap.org/node/2579636168,2026-09-01,openstreetmap,-32.3465262,-64.9887605,2579636168,node
+Tala Huasi,chalet,"Marte 185, Villa de Merlo",+54 9 11 6053 3836,,,https://www.argentinaturismo.com.ar/talahuasicabanias/,,https://www.openstreetmap.org/node/2579653764,2026-09-01,openstreetmap,-32.3523515,-65.0002021,2579653764,node
+Cabañas Cuyà,chalet,Cuesta de la Granadilla 800,+54 2656 40 6137,,,https://www.argentinaturismo.com.ar/cuyacabanias/,,https://www.openstreetmap.org/node/2579670485,2026-09-01,openstreetmap,-32.3779396,-65.0092413,2579670485,node
+Cabañas Medalla Milagrosa,chalet,"Chumamaya, Villa de Merlo",+54 9 221 556 7365,,,,,https://www.openstreetmap.org/node/2579917172,2026-09-01,openstreetmap,-32.3392498,-64.9886242,2579917172,node
+Cabañas Taparacu,chalet,,+54 9 2657 52 5666,,,https://www.argentinaturismo.com.ar/cabanastaparacu/,,https://www.openstreetmap.org/node/2579926897,2026-09-01,openstreetmap,-32.3628525,-64.9969366,2579926897,node
+Cabañas Don Augusto,chalet,"Fermín Romero, Villa de Merlo",+54 353 411 8649,,,https://www.argentinaturismo.com.ar/donaugusto/,,https://www.openstreetmap.org/node/2579932346,2026-09-01,openstreetmap,-32.3232464,-65.02506,2579932346,node
+Cabañas La Comarca,chalet,"19 de Septiembre, Villa de Merlo",+54 2656 47 9815,,,https://www.argentinaturismo.com.ar/lacomarca/,,https://www.openstreetmap.org/node/2579934388,2026-09-01,openstreetmap,-32.3232871,-65.0008679,2579934388,node
+El Paseo del Zorzal,chalet,Juan B. Justo 2551,+54 2656 49 2233,,,https://www.argentinaturismo.com.ar/paseodelzorzal/,,https://www.openstreetmap.org/node/2579937441,2026-09-01,openstreetmap,-32.3497058,-64.9769993,2579937441,node
+Lirios del Valle,chalet,"Poeta Conti, Villa de Merlo",+54 2656 474062,,,https://www.argentinaturismo.com.ar/liriosdelvalle/,,https://www.openstreetmap.org/node/2579943816,2026-09-01,openstreetmap,-32.3518655,-65.0100726,2579943816,node
+Posada Candela,hotel,,,,,,,https://www.openstreetmap.org/node/2579943817,2026-09-01,openstreetmap,-32.352276,-65.0100628,2579943817,node
+Lo de Emilio,hostel,Urquiza,+54 9 266 422 0592,,,https://www.argentinaturismo.com.ar/lodeemilio/,,https://www.openstreetmap.org/node/2580047349,2026-09-01,openstreetmap,-32.3430565,-64.9675976,2580047349,node
+Antawara Cabañas de Montaña,hostel,"La Mazamorra, Villa de Merlo",+54 2656 477790,,,https://www.argentinaturismo.com.ar/antawara/,,https://www.openstreetmap.org/node/2580096150,2026-09-01,openstreetmap,-32.3441579,-64.9798869,2580096150,node
+Complejo Oma Lissi,chalet,"19 de Septiembre 270, Villa de Merlo",,,,https://www.argentinaturismo.com.ar/omalissi/,,https://www.openstreetmap.org/node/2580096155,2026-09-01,openstreetmap,-32.3235177,-65.0033764,2580096155,node
+Casanovas Cabañas,chalet,"San Isidro 371, Villa de Merlo",+54 2656 470526,,,https://www.argentinaturismo.com.ar/casanovas/,,https://www.openstreetmap.org/node/2580391746,2026-09-01,openstreetmap,-32.3525146,-65.0076911,2580391746,node
+Cabañas Ayllu,hostel,"El Molino 112, Villa de Merlo",+54 2656 478132,,,https://www.argentinaturismo.com.ar/cabanasayllu/,,https://www.openstreetmap.org/node/2580396222,2026-09-01,openstreetmap,-32.3496078,-64.9868571,2580396222,node
+El Aljibe Cabañas,chalet,"Cerro de las Ovejas 402, Villa de Merlo",+54 2656 474080,,,https://www.argentinaturismo.com.ar/elaljibe/,,https://www.openstreetmap.org/node/2580397050,2026-09-01,openstreetmap,-32.3494025,-65.0068278,2580397050,node
+Complejo Inca Viracocha,chalet,"Pedernera, Villa de Merlo",+54 2656 474300,,,https://www.argentinaturismo.com.ar/incaviracocha/,,https://www.openstreetmap.org/node/2581250394,2026-09-01,openstreetmap,-32.347628,-65.0094006,2581250394,node
+Cabañas Despertar Serrano,hostel,"Padre Pablo Tissera 849, Merlo",+54 2656 47 8383,,,https://despertarserrano.com.ar/,,https://www.openstreetmap.org/node/2582436426,2026-09-01,openstreetmap,-32.3441583,-65.0006465,2582436426,node
+Cabañas Altos del Centro,chalet,"Poeta Agüero 765, Villa de Merlo",+54 9 266 450 1761,,,www.altos-centro.com.ar,,https://www.openstreetmap.org/node/2582460455,2026-09-01,openstreetmap,-32.3415038,-65.0152616,2582460455,node
+Cabañas Khami,chalet,"Av. Del Deporte, Villa de Merlo",+54 2656 476094,,,https://www.argentinaturismo.com.ar/khami/,,https://www.openstreetmap.org/node/2583173687,2026-09-01,openstreetmap,-32.340497,-65.0036947,2583173687,node
+Las Cabañas de Merlo,hostel,,+54 9 299 524 1556,,,https://www.argentinaturismo.com.ar/cabaniasdemerlo/,,https://www.openstreetmap.org/node/2583175531,2026-09-01,openstreetmap,-32.361208,-64.9945617,2583175531,node
+Cabañas Quechalen,hostel,,+54 2656 49 0117,,,www.quechalen.com.ar,,https://www.openstreetmap.org/node/2583537068,2026-09-01,openstreetmap,-32.411202,-64.978717,2583537068,node
+Cabañas Horus,chalet,"Hipólito Yrigoyen, Villa de Merlo",+54 2656 473030,,,https://www.horus-sl.com.ar/,,https://www.openstreetmap.org/node/2583549120,2026-09-01,openstreetmap,-32.3513581,-64.972013,2583549120,node
+Cabañas y Camping La Sorpresa,hostel,,+54 2656 47 9067,,,https://www.campinglasorpresa.com.ar/,,https://www.openstreetmap.org/node/2583573160,2026-09-01,openstreetmap,-32.4060307,-65.0159371,2583573160,node
+Cabañas Alma Mora,chalet,"Comechingones 637, Villa de Merlo",+54 2656 473058,,,https://www.alma-villademerlo.com.ar/,,https://www.openstreetmap.org/node/2583580528,2026-09-01,openstreetmap,-32.340579,-65.003301,2583580528,node
+Cabañas Ioká Ioká,hostel,,+54 2656 47 9036,,,http://www.cabanias.com/cabs/mostrar.asp?id=ioka,,https://www.openstreetmap.org/node/2583599764,2026-09-01,openstreetmap,-32.4156046,-65.0112472,2583599764,node
+Complejo Don Gregorio,chalet,"Neptuno 455, Villa de Merlo",+54 2656 473367,,,https://dgregorio.com,,https://www.openstreetmap.org/node/2583605679,2026-09-01,openstreetmap,-32.3479328,-65.00577,2583605679,node
+Cabañas Lynch,hostel,Avenida De Los Incas 2950,+54 2656 47 9731,,,http://cabanaslynch.blogspot.com/,,https://www.openstreetmap.org/node/2583631472,2026-09-01,openstreetmap,-32.3161777,-65.0001852,2583631472,node
+Cabañas Dalga Inn,chalet,"El Zorzal, Villa de Merlo",+54 2656 478281,,,https://www.dalgainn.com.ar/,,https://www.openstreetmap.org/node/2583708642,2026-09-01,openstreetmap,-32.3528575,-64.9771054,2583708642,node
+El Candil Cabañas y Hosteria,chalet,"La Abeja, Villa de Merlo",+54 9 266 446 5848,,,http://www.cabanias.com/cabs/mostrar.asp?id=elcandil,,https://www.openstreetmap.org/node/2583740799,2026-09-01,openstreetmap,-32.3302379,-65.0111975,2583740799,node
+Cabañas Duplex Aguaribay,chalet,"Avenida Dos Venados, Villa de Merlo",+54 2656 47 9604,,,www.aguaribaycabanias.com.ar,,https://www.openstreetmap.org/node/2583755017,2026-09-01,openstreetmap,-32.3208522,-64.9996814,2583755017,node
+Cabañas Sierras Doradas,chalet,"Ruta Provincial 5 2350, Villa de Merlo",+54 2656 476521,reservas@sierrasdoradas.com,,https://www.todocabanias.com.ar/web/listings/sierras-doradas/,,https://www.openstreetmap.org/node/2583765193,2026-09-01,openstreetmap,-32.3505415,-64.9816171,2583765193,node
+Cabañas y Apart El Rincón de Iri-Nan,chalet,"Malvinas Argentinas, Villa de Merlo",+54 2656 473651,,,https://www.elrincondeirinan.com.ar/,,https://www.openstreetmap.org/node/2583791940,2026-09-01,openstreetmap,-32.348542,-64.9899454,2583791940,node
+Cabañas El Francés,hostel,Juan Bautista Alberdi 36,+54 2656 47 3504,cabelfrances@yahoo.com.ar,,http://www.cabañaselfrances.com.ar,,https://www.openstreetmap.org/node/2583850591,2026-09-01,openstreetmap,-32.3479255,-64.984163,2583850591,node
+Cabañas Pehuén,chalet,"Hipólito Yrigoyen 58, Villa de Merlo",+54 9 266 429 8499,,,https://www.cabanias-pehuen.com.ar/,,https://www.openstreetmap.org/node/2583872346,2026-09-01,openstreetmap,-32.3517425,-64.9718072,2583872346,node
+Posada De Campo Maia,hostel,Av.José Alberto Mercau 2500,+54 2656 47 7955,reservas@posada-villademerlo.com.ar,,https://www.posada-villademerlo.com.ar/,,https://www.openstreetmap.org/node/2584425966,2026-09-01,openstreetmap,-32.369735,-64.9909187,2584425966,node
+Cabañas Las Lajas,chalet,"Cerro Las Lajas 1341, Villa de Merlo",+54 2656 47 8867,,,https://www.argentinaturismo.com.ar/complejolaslajas/,,https://www.openstreetmap.org/node/2584453381,2026-09-01,openstreetmap,-32.3519489,-64.9971007,2584453381,node
+Cabaña Mapaná,chalet,"Cañada de Los Zainos 44, Villa de Merlo",+54 11 5462-9953,,,https://www.argentinaturismo.com.ar/mapana/,,https://www.openstreetmap.org/node/2584463013,2026-09-01,openstreetmap,-32.3511926,-65.0123263,2584463013,node
+Los Paraísos,chalet,"Presbítero Becerra 1051, Villa de Merlo",+54 2656 475497,,,https://www.duplexlosparaisos.com.ar/,,https://www.openstreetmap.org/node/2585259878,2026-09-01,openstreetmap,-32.3379385,-65.0132353,2585259878,node
+Cabañas La Soñada,chalet,Ruta Provincial 1 2058,+54 2656 47-7771,info@cabaniaslasoniada.com.ar,,https://www.cabaniaslasoniada.com.ar/ubicacion.htm,,https://www.openstreetmap.org/node/2586049598,2026-09-01,openstreetmap,-32.3736842,-65.0183623,2586049598,node
+Cabañas La Herradura,chalet,Cuesta de la Granadilla 801,+54 2656 47 7797,,,https://www.argentinaturismo.com.ar/laherradura/,,https://www.openstreetmap.org/node/2586112026,2026-09-01,openstreetmap,-32.3770247,-65.0091376,2586112026,node
+Rincón Elegido,chalet,"Marte 186, Villa de Merlo",+54 2656 474650,,,https://www.argentinaturismo.com.ar/rinconelegido/,,https://www.openstreetmap.org/node/2586123920,2026-09-01,openstreetmap,-32.3525647,-65.0006155,2586123920,node
+Complejo Pasos Malos,hotel,Avenida Dos Venados,+54 2656 472037,,,http://www.complejopasosmalos.com/,,https://www.openstreetmap.org/node/2586203571,2026-09-01,openstreetmap,-32.3305813,-64.9982784,2586203571,node
+Pasos del Atardecer,chalet,Camino a Pasos Malos,+54 2656 47 2099,,,,,https://www.openstreetmap.org/node/2586206573,2026-09-01,openstreetmap,-32.330404,-64.9928795,2586206573,node
+Cabañas Don Fausto,chalet,Las Acasias,+54 2656 47 9755,,,https://www.argentinaturismo.com.ar/donfausto/,,https://www.openstreetmap.org/node/2586249993,2026-09-01,openstreetmap,-32.3199962,-65.0078898,2586249993,node
+Cabañas Palas de Rey,chalet,"Juan B. Justo 3147, Villa de Merlo",+54 2656 47 8075,,,https://www.alojamientosdelsur.com.ar/palasderey,,https://www.openstreetmap.org/node/2586842808,2026-09-01,openstreetmap,-32.351301,-64.9701738,2586842808,node
+Complejo Sagrado Corazón de Jesús,chalet,Mundial 78,+54 2656 47 3424,,,http://www.cabanias-sagcorazon.com.ar,,https://www.openstreetmap.org/node/2586870254,2026-09-01,openstreetmap,-32.3395013,-65.0020015,2586870254,node
+Rincón Dorado,chalet,Sargento Baigorria 926,+54 11 4605 3204,rincon-dorado@hotmail.com,,http://rincon-dorado.com.ar,,https://www.openstreetmap.org/node/2587409107,2026-09-01,openstreetmap,-32.3431759,-65.0055011,2587409107,node
+Complejo Mi Viejo Vicente,chalet,"Sargento Baigorria, Villa de Merlo",+54 2656 473978,,,https://www.miviejovicente.com.ar/,,https://www.openstreetmap.org/node/2587409370,2026-09-01,openstreetmap,-32.3506589,-65.0057301,2587409370,node
+Complejo Ita Cami,chalet,Villa de Merlo,+54 9 2656 41 0101,,,https://www.argentinaturismo.com.ar/itacami/,,https://www.openstreetmap.org/node/2589177190,2026-09-01,openstreetmap,-32.3503483,-64.9743224,2589177190,node
+Cabañas Costa del Sol,chalet,Esmeralda,+54 9 2657 21 3226,,,https://www.argentinaturismo.com.ar/costadelsol/,,https://www.openstreetmap.org/node/2589188122,2026-09-01,openstreetmap,-32.3624945,-65.0039951,2589188122,node
+Rincon De Los Troncos,chalet,"Avenida José Alberto Mercau 164, Villa de Merlo",,,,,,https://www.openstreetmap.org/node/2589190512,2026-09-01,openstreetmap,-32.3494376,-64.9959794,2589190512,node
+Camino del Cerro,chalet,Camino del Cerro,+54 9 341 547 7114,,,https://www.argentinaturismo.com.ar/caminodelcerro/,,https://www.openstreetmap.org/node/2589224609,2026-09-01,openstreetmap,-32.3718789,-64.9902439,2589224609,node
+Cabañas Cinco Soles,chalet,"Neptuno 1022, Villa de Merlo",+54 2656 478471,,,https://www.complejocincosoles.com.ar/,,https://www.openstreetmap.org/node/2591638190,2026-09-01,openstreetmap,-32.3484099,-64.9994264,2591638190,node
+Cabañas de Troncos La Laguna,chalet,"Joaquin C Mansilla 330, Villa de Merlo",+54 2656 474225,,,https://www.lagunamerlo.com.ar,,https://www.openstreetmap.org/node/2591660509,2026-09-01,openstreetmap,-32.3496812,-64.9911152,2591660509,node
+Cabañas Nona Olga,chalet,"Cerro Blanco, Villa de Merlo",+54 2656 477900,,,https://www.argentinaturismo.com.ar/nonaolga/,,https://www.openstreetmap.org/node/2595948625,2026-09-01,openstreetmap,-32.3487803,-65.0109913,2595948625,node
+El Refugio de los Pajaros,chalet,"Lola Mora, Villa de Merlo",+54 2656 474167,,,https://www.argentinaturismo.com.ar/refugiodelospajaros/,,https://www.openstreetmap.org/node/2595952812,2026-09-01,openstreetmap,-32.344697,-64.9892492,2595952812,node
+Cabañas Cerro Nevado,chalet,"Cañada de Los Zainos 45, Villa de Merlo",+54 2656 470411,,,https://www.argentinaturismo.com.ar/cerronevado/,,https://www.openstreetmap.org/node/2595958533,2026-09-01,openstreetmap,-32.351196,-65.012098,2595958533,node
+Cabañas Kamiare,chalet,"Poeta Conti 61, Villa de Merlo",+54 2656 473380,,,http://www.cabanias.com/cabs/mostrar.asp?id=kamiare,,https://www.openstreetmap.org/node/2607889043,2026-09-01,openstreetmap,-32.3514884,-65.0099117,2607889043,node
+Naguan Apart Hotel,hotel,"2 de Abril 552, Villa de Merlo",+54 2656 478077,,,,,https://www.openstreetmap.org/node/2607891599,2026-09-01,openstreetmap,-32.345564,-64.9925021,2607891599,node
+Altos de Merlo Apart,chalet,Cuesta de la Granadilla,+54 9 11 6396 5069,,,http://www.apartaltosdemerlo.com.ar,,https://www.openstreetmap.org/node/2607928709,2026-09-01,openstreetmap,-32.378236,-65.0086787,2607928709,node
+La Loma Resort,hotel,La Herradura 84,(054) 02656-473378 / 474331,,,https://lalomaresort.com.ar/,,https://www.openstreetmap.org/node/2607939209,2026-09-01,openstreetmap,-32.3347951,-64.9961583,2607939209,node
+Tierra Mía Apart,hotel,"Avenida José Alberto Mercau 549, Villa de Merlo",+54 2656 473 653,,,http://www.tierramiamerlo.com.ar,,https://www.openstreetmap.org/node/2607966196,2026-09-01,openstreetmap,-32.3523173,-64.9959258,2607966196,node
+Cabañas La Morada de Merlo,chalet,Amatista,+54 266 434 5846; +598 266 485 3461,,,https://www.lamoradamerlo.com.ar/,,https://www.openstreetmap.org/node/2608001905,2026-09-01,openstreetmap,-32.3622345,-65.0033544,2608001905,node
+Cabañas Rincón de los Duendes,chalet,"El Crespín 28, Villa de Merlo",+54 2656 471054,,,https://www.rincondelosduendes.com.ar/,,https://www.openstreetmap.org/node/2609604488,2026-09-01,openstreetmap,-32.345641,-64.981631,2609604488,node
+Cabañas Sombras del Viento,chalet,,"(0348) 15-4505365, (0348) 15-4373005",,,http://www.cabanias.com/cabs/mostrar.asp?id=sombrasdelviento,,https://www.openstreetmap.org/node/2612378524,2026-09-01,openstreetmap,-32.4092432,-65.0014422,2612378524,node
+Toay Cabañas,chalet,Damiana Vega,"+54 (011) 15-56365438, (011) 15-50415648",,,http://www.cabanias.com/cabs/mostrar.asp?id=toay,,https://www.openstreetmap.org/node/2612386024,2026-09-01,openstreetmap,-32.3667754,-64.9732652,2612386024,node
+Cabañas Kupal,chalet,El Crespín 1530,+54 9 266 454 6095,,,http://www.cabanias.com/cabs/mostrar.asp?id=kupal,,https://www.openstreetmap.org/node/2612405899,2026-09-01,openstreetmap,-32.3948374,-64.9983832,2612405899,node
+Cabañas & Spa Pio Pio,chalet,"Jupiter 1349, Villa de Merlo",+54 11 4718 0005,,,http://www.cabanias.com/cabs/mostrar.asp?id=piopio,,https://www.openstreetmap.org/node/2613424846,2026-09-01,openstreetmap,-32.349308,-64.9970563,2613424846,node
+Complejo La Giralda,chalet,"Marte 113, Villa de Merlo",,,,,,https://www.openstreetmap.org/node/2614771193,2026-09-01,openstreetmap,-32.3502471,-65.0003701,2614771193,node
+Cabañas El Refugio de la Luna,chalet,Villa de Merlo,,,,http://www.cabanias.com/cabs/mostrar.asp?id=elrefugiodelaluna,,https://www.openstreetmap.org/node/2614774259,2026-09-01,openstreetmap,-32.3412546,-65.0003091,2614774259,node
+Cabañas El Desafío,chalet,"La Mazamorra, Villa de Merlo",+54 2656 477062,,,http://www.cabanias.com/cabs/mostrar.asp?id=eldesafio,,https://www.openstreetmap.org/node/2614859049,2026-09-01,openstreetmap,-32.3424602,-64.9806672,2614859049,node
+Cabañas Inticami,chalet,"Cerro Las Lajas 1250, Villa de Merlo",+54 2656 47 4120,,,http://www.inticami.com.ar,,https://www.openstreetmap.org/node/2614872939,2026-09-01,openstreetmap,-32.3518813,-64.9982212,2614872939,node
+Cabañas Babin Kuk,chalet,"Comechingones 1181, Villa de Merlo",+54 2656 473197,,,http://www.cabanias.com/cabs/mostrar.asp?id=babinkuk,,https://www.openstreetmap.org/node/2614884328,2026-09-01,openstreetmap,-32.340831,-64.9988097,2614884328,node
+Cabañas Ruca Mawida,chalet,,+54 9 11 4144 5951,,,http://www.cabanias.com/cabs/mostrar.asp?id=rucamawida,,https://www.openstreetmap.org/node/2618679855,2026-09-01,openstreetmap,-32.3797806,-65.0173304,2618679855,node
+Duplex Cerro de los Pájaros,chalet,"Cerro Azul, Villa de Merlo",+54 2656 47 5701,,,http://www.cerrodelospajaros.com.ar,,https://www.openstreetmap.org/node/2618694960,2026-09-01,openstreetmap,-32.3467625,-65.0111777,2618694960,node
+Cabañas Kidamalau,chalet,Niña Mercedes,"+54  (011) 15-6548-6615, (011) 4754-0598",,,http://www.cabanias.com/cabs/mostrar.asp?id=kidamalau,,https://www.openstreetmap.org/node/2618710820,2026-09-01,openstreetmap,-32.3336936,-65.0115326,2618710820,node
+Complejo Corazón de Montaña,chalet,Camino de Circuito Vega,+54 9 11 5409 4929,,,http://www.cabanias.com/cabs/mostrar.asp?id=corazondemontana,,https://www.openstreetmap.org/node/2618719795,2026-09-01,openstreetmap,-32.3677584,-64.977243,2618719795,node
+Dorado Del Sol,chalet,,+54 9 11 5327 2929,,,http://www.cabanias.com/cabs/mostrar.asp?id=doradodelsol,,https://www.openstreetmap.org/node/2618795707,2026-09-01,openstreetmap,-32.3769295,-64.9828891,2618795707,node
+Las Nubes Apart,chalet,"El Mollar, Villa de Merlo",+54 2656 474385,,,http://www.lasnubesapart.com.ar/,,https://www.openstreetmap.org/node/2618849895,2026-09-01,openstreetmap,-32.3314035,-65.0112746,2618849895,node
+Cabañas Ayres del Cerro,chalet,Cuesta de la Granadilla 2200,"+54  (02656) 477-046,",,,http://www.cabanias.com/cabs/mostrar.asp?id=ayresdelcerro,,https://www.openstreetmap.org/node/2618985616,2026-09-01,openstreetmap,-32.373502,-64.9959143,2618985616,node
+Complejo Alta Luna,chalet,Los Aborígenes 210,+54 2656 47-7504; +54 266 46-30852,,,http://www.cabanias.com/cabs/mostrar.asp?id=altalunamerlo,,https://www.openstreetmap.org/node/2618997038,2026-09-01,openstreetmap,-32.3744652,-65.0152388,2618997038,node
+Cabañas Aldea Blanca,chalet,"Avenida Norte 2207, Villa de Merlo","+54 (0266) 15-462-5614, (0266) 15-462-5697",,,https://aldea-blanca.com.ar/,,https://www.openstreetmap.org/node/2619004496,2026-09-01,openstreetmap,-32.3263727,-65.0155309,2619004496,node
+Cabañas La Belén,chalet,"Presbítero Becerra 420, Villa de Merlo",+54 2656 478767,,,http://www.xn--cabaaslabelen-lkb.com.ar,,https://www.openstreetmap.org/node/2619008183,2026-09-01,openstreetmap,-32.3524677,-65.0130871,2619008183,node
+Complejo La Aldea,chalet,Las Gaviota,,,,https://www.complejolaaldea.com.ar/,,https://www.openstreetmap.org/node/2624777571,2026-09-01,openstreetmap,-32.3513294,-64.976312,2624777571,node
+Cabañas Escondidas,chalet,,+54 2656 47 8177,,,http://www.cabanias.com/cabs/mostrar.asp?id=escondidas,,https://www.openstreetmap.org/node/2624797003,2026-09-01,openstreetmap,-32.3556436,-64.9608089,2624797003,node
+Cabañas Los Nonos,chalet,Bagualeros de la luna,+54 9 266 450 8722,,,cabanaslosnonos.com.ar,,https://www.openstreetmap.org/node/2624813976,2026-09-01,openstreetmap,-32.4122826,-64.9957743,2624813976,node
+Cabañas Angeland,chalet,,+54 (0266) 15-454-1766 / (0266) 15-463-7599 / (02656) 479-314,,,http://www.cabanias.com/cabs/mostrar.asp?id=angeland,,https://www.openstreetmap.org/node/2625968160,2026-09-01,openstreetmap,-32.4053457,-65.0093754,2625968160,node
+Cabañas Los Aromos,chalet,Cuesta de la Granadilla 1100,+54 (011) 1551017240 / (011) 1559440411,,,https://www.cabaniaslosaromos.com.ar/,,https://www.openstreetmap.org/node/2625976619,2026-09-01,openstreetmap,-32.3761799,-65.0057198,2625976619,node
+Casa Nazareth,chalet,Picaflor 2260,(02656) 476-033; (0266) 15-461-2194,,,http://www.cabanias.com/cabs/mostrar.asp?id=nazareth,,https://www.openstreetmap.org/node/2625984111,2026-09-01,openstreetmap,-32.3502815,-64.9806682,2625984111,node
+Ayflo Cabañas,chalet,Las Lechuzas 50,"+54 (02656) 47-9106, (0266) 15-433-8773,",,,https://www.ayflo.com.ar/,,https://www.openstreetmap.org/node/2625997827,2026-09-01,openstreetmap,-32.4101554,-65.0073704,2625997827,node
+Chalets ZB I y II,chalet,"Las Tres Marias 1282, Villa de Merlo",+54 2656 478435,,,http://www.cabanias.com/cabs/mostrar.asp?id=zb,,https://www.openstreetmap.org/node/2633775562,2026-09-01,openstreetmap,-32.3512606,-64.9973227,2633775562,node
+Rincon Verde,chalet,"2 de Abril 272, Villa de Merlo",+54 2656 473633,,,http://www.cabanasrinconverde.com.ar,,https://www.openstreetmap.org/node/2633792053,2026-09-01,openstreetmap,-32.3462252,-64.991936,2633792053,node
+Cabañas Samana Huasi,chalet,"Avenida Dos Venados 757, Villa de Merlo",+54 2656 475880,,,http://www.cabanias.com/cabs/mostrar.asp?id=samanahuasi-merlo,,https://www.openstreetmap.org/node/2633807993,2026-09-01,openstreetmap,-32.3426313,-64.9965588,2633807993,node
+Parque Golf Hotel,hotel,Avenida del Sol 821,,,,,,https://www.openstreetmap.org/node/2705663279,2026-09-01,openstreetmap,-32.3468377,-65.001735,2705663279,node
+Complejo Las Violetas,camp_site,,,,,,,https://www.openstreetmap.org/node/2705965573,2026-09-01,openstreetmap,-32.3399752,-64.9939241,2705965573,node
+Cabañas Unquen,chalet,,011 1144355026,adriana.rimoldi@gmail.com,,www.cabaniasunquen.com.ar,Accesible,https://www.openstreetmap.org/node/2729608345,2026-09-01,openstreetmap,-32.4135691,-65.0033505,2729608345,node
+Posada Los Antiguos,chalet,"Barro Azul 363, Cerro de Oro",,,,https://www.argentinaturismo.com.ar/posadalosantiguos/,,https://www.openstreetmap.org/node/2866060447,2026-09-01,openstreetmap,-32.3767964,-64.9848256,2866060447,node
+Complejo Los Tabaquillos,chalet,"Padre Pablo Tissera 385, Villa de Merlo",+54 2656 47 4598,,,http://www.complejotabaquillos.com.ar/,,https://www.openstreetmap.org/node/2965780389,2026-09-01,openstreetmap,-32.3435227,-65.0077125,2965780389,node
+Posada Los Antiguos,chalet,,,,,,,https://www.openstreetmap.org/node/2979411785,2026-09-01,openstreetmap,-32.383205,-65.0150008,2979411785,node
+Cabañas El Ruiseñor,chalet,,,,,,,https://www.openstreetmap.org/node/3282048580,2026-09-01,openstreetmap,-32.3480869,-65.006888,3282048580,node
+A Mi Manera,chalet,"Anselmo Tisera 2250, Merlo",,,,,,https://www.openstreetmap.org/node/3308451355,2026-09-01,openstreetmap,-32.3408801,-64.9856735,3308451355,node
+Departamentos Los Almendros,hotel,"Los Almendros 175, Villa de Merlo",+54 2656 476181,alquilemerlo@gmail.com,,https://departamentoslosalmendros.com/,,https://www.openstreetmap.org/node/3536876038,2026-09-01,openstreetmap,-32.3446684,-65.010619,3536876038,node
+La Ludmila,hotel,,,,,,,https://www.openstreetmap.org/node/3724109318,2026-09-01,openstreetmap,-32.3489562,-64.9979519,3724109318,node
+Cabañas Cerro Dorado,chalet,Camino de Damiana Vega 943,+54 2656 47 7466,cerrodorado@yahoo.com.ar,,http://www.cerrodorado.com.ar,,https://www.openstreetmap.org/node/4303707095,2026-09-01,openstreetmap,-32.3678669,-64.9813016,4303707095,node
+Cabañas Inti Huasi,chalet,,,,,,,https://www.openstreetmap.org/node/4345759911,2026-09-01,openstreetmap,-32.3423995,-64.9824233,4345759911,node
+Flamenco,hotel,,,,,,,https://www.openstreetmap.org/node/4414579794,2026-09-01,openstreetmap,-32.3405686,-64.9967085,4414579794,node
+Cabañas de Colores,hotel,,02653477782,,,,,https://www.openstreetmap.org/node/4636442990,2026-09-01,openstreetmap,-32.4156128,-65.0087758,4636442990,node
+Cabañas Monteolivos,chalet,"Avenida José Alberto Mercau 321, Villa de Merlo",,,,https://www.monteolivos.com.ar/,,https://www.openstreetmap.org/node/4646284189,2026-09-01,openstreetmap,-32.3485338,-64.996235,4646284189,node
+Cabañas Cohue,chalet,"Chumamaya 1080, Villa de Merlo",,,,,,https://www.openstreetmap.org/node/5005757421,2026-09-01,openstreetmap,-32.3398797,-64.997756,5005757421,node
+Apart Hotel Piscu Yaco,hotel,"Avenida del Sol, Villa de Merlo",,,,,,https://www.openstreetmap.org/node/5285610301,2026-09-01,openstreetmap,-32.3458003,-65.0103442,5285610301,node
+Camping Calaguala,camp_site,,,,,,,https://www.openstreetmap.org/node/5455168505,2026-09-01,openstreetmap,-32.3696272,-64.9845412,5455168505,node
+Complejo Cerro de Oro,hotel,,,,,,,https://www.openstreetmap.org/node/5455168506,2026-09-01,openstreetmap,-32.3727625,-64.9899405,5455168506,node
+Cerro de Oro,camp_site,,,,,,,https://www.openstreetmap.org/node/5455168507,2026-09-01,openstreetmap,-32.3726016,-64.9900545,5455168507,node
+Camping Municipal de Merlo,camp_site,,,,,,,https://www.openstreetmap.org/node/5455169432,2026-09-01,openstreetmap,-32.3531311,-64.9692178,5455169432,node
+Posada Los Alamos,hotel,"Neptuno 513, Villa de Merlo",+54 2656 474727,,,https://www.losalamosposada.com.ar/,,https://www.openstreetmap.org/node/5464661523,2026-09-01,openstreetmap,-32.3479997,-65.0051371,5464661523,node
+Clima Sol Hotel,hotel,"Avenida del Deporte 437, Villa de Merlo",,,,https://www.grupoclima.com.ar/clima-sol-2,,https://www.openstreetmap.org/node/5766700270,2026-09-01,openstreetmap,-32.3462382,-65.0043091,5766700270,node
+Mirador del Horizonte,chalet,,,,,,,https://www.openstreetmap.org/node/6057686986,2026-09-01,openstreetmap,-32.4181599,-64.9842998,6057686986,node
+Chumamaya,chalet,,+54 2656 47 6500,,,https://chumamaya.com,,https://www.openstreetmap.org/node/6302457285,2026-09-01,openstreetmap,-32.3351951,-64.9826345,6302457285,node
+,chalet,,,,,,,https://www.openstreetmap.org/node/6316629686,2026-09-01,openstreetmap,-32.4063846,-65.0128074,6316629686,node
+Cabañas Balcones Apart & boutique,chalet,"Los Molles, Carpintería",+54 11 6748 0451,,,https://www.cabañasbalcones.com.ar,,https://www.openstreetmap.org/node/6563690011,2026-09-01,openstreetmap,-32.4171487,-64.9832716,6563690011,node
+Hotel El Cortijo,hotel,"Padre Pablo Tissera 1200, Merlo",,,,,,https://www.openstreetmap.org/node/6853537253,2026-09-01,openstreetmap,-32.3444426,-64.9980402,6853537253,node
+La Posada Del Tiempo,hotel,Avenida Eva Duarte 180,,,,,,https://www.openstreetmap.org/node/6946329653,2026-09-01,openstreetmap,-32.3504175,-65.0042147,6946329653,node
+Dormis de Agustin,hostel,,,,,,,https://www.openstreetmap.org/node/7788604039,2026-09-01,openstreetmap,-32.3105381,-65.0334728,7788604039,node
+Cabañas de los Comechingones,chalet,,,,,,,https://www.openstreetmap.org/node/8042312638,2026-09-01,openstreetmap,-32.3669099,-64.9712308,8042312638,node
+El Refugio de los Pajaros,chalet,"Lola Mora, Villa de Merlo",+54 9 266 4321368,,,https://www.argentinaturismo.com.ar/refugiodelospajaros/,,https://www.openstreetmap.org/node/9685699192,2026-09-01,openstreetmap,-32.3445547,-64.9916553,9685699192,node
+Blla Vista,chalet,"Lola Mora, Villa de Merlo",+54 9 266 4842096,,,http://www.alpiedelmorro.com.ar/,,https://www.openstreetmap.org/node/9685699193,2026-09-01,openstreetmap,-32.3453544,-64.9883768,9685699193,node
+El Campo Departamentos,chalet,,,,,,,https://www.openstreetmap.org/node/10917398559,2026-09-01,openstreetmap,-32.3850805,-65.0153077,10917398559,node
+Cabañas Euskadi,chalet,,,,,,,https://www.openstreetmap.org/node/11329997225,2026-09-01,openstreetmap,-32.3508426,-65.0004624,11329997225,node
+Hotel Torres del Sol,hotel,,,,,,,https://www.openstreetmap.org/node/11330005330,2026-09-01,openstreetmap,-32.3475015,-65.0000245,11330005330,node
+Hotel Cana Blaya,hotel,,,,,,,https://www.openstreetmap.org/node/11330005331,2026-09-01,openstreetmap,-32.3470143,-65.0001265,11330005331,node
+Hotel Ayres del Bosque,hotel,,,,,,,https://www.openstreetmap.org/node/11330005332,2026-09-01,openstreetmap,-32.3463095,-64.9994343,11330005332,node
+Hotel Lida,hotel,,,,,,,https://www.openstreetmap.org/node/11330030847,2026-09-01,openstreetmap,-32.3496906,-64.9824341,11330030847,node
+Cabañas Sagrado Corazon Y Corazón De Maria,chalet,Sargento Baigorria,+54 9 266 422 3848,,,https://cabanascorazondemaria.hotelonia.com/,,https://www.openstreetmap.org/node/11330035497,2026-09-01,openstreetmap,-32.3386656,-65.0051878,11330035497,node
+La Herradura Village,chalet,,,,,,,https://www.openstreetmap.org/node/11330050646,2026-09-01,openstreetmap,-32.334113,-64.9965069,11330050646,node
+A Hotel Deco Suites,hotel,Juan Pablo Xxlll 1173,,,ahoteldecosuites,https://www.instagram.com/ahoteldecosuites?igsh=MzRlODBiNWFlZA==,,https://www.openstreetmap.org/node/11504194969,2026-09-01,openstreetmap,-32.3651823,-64.9940082,11504194969,node
+Camping Municipal de Carpinteria,camp_site,,,,,,,https://www.openstreetmap.org/node/12610667073,2026-09-01,openstreetmap,-32.4121709,-64.9786806,12610667073,node
+Merlin,guest_house,,,,,,,https://www.openstreetmap.org/node/12965535932,2026-09-01,openstreetmap,-32.3161854,-64.9926743,12965535932,node
+,camp_site,,,,,,,https://www.openstreetmap.org/node/12980419105,2026-09-01,openstreetmap,-32.3101793,-65.0007976,12980419105,node
+Las Tres Marias,chalet,,266510057,,,,,https://www.openstreetmap.org/node/12994653164,2026-09-01,openstreetmap,-32.3420096,-65.0058434,12994653164,node
+Cabańas Rincon de verde,chalet,,,,,,,https://www.openstreetmap.org/node/13039962795,2026-09-01,openstreetmap,-32.3454319,-64.9916559,13039962795,node
+Entrepiedras,chalet,,,,,,,https://www.openstreetmap.org/node/13040036802,2026-09-01,openstreetmap,-32.3449405,-64.9911538,13040036802,node
+AOMA Terrazas del Rincón,hotel,,,,,,,https://www.openstreetmap.org/node/13040337716,2026-09-01,openstreetmap,-32.346801,-64.9914677,13040337716,node
+Rahuen,hotel,,,,,,,https://www.openstreetmap.org/node/13269298901,2026-09-01,openstreetmap,-32.4187142,-64.9844431,13269298901,node
+Rahuen,hotel,Los Espinillos 55,+54 266 401 6626,,,www.hotelrahuen.com.ar,,https://www.openstreetmap.org/node/13273878275,2026-09-01,openstreetmap,-32.4187291,-64.9844237,13273878275,node
+Rahuen,hotel,Los Espinillos,,,,,,https://www.openstreetmap.org/node/13276816101,2026-09-01,openstreetmap,-32.4187287,-64.9844258,13276816101,node
+Pisis,chalet,"Avenida del Ciprés, Villa de Merlo",,,,,,https://www.openstreetmap.org/node/13277691511,2026-09-01,openstreetmap,-32.3424451,-65.007719,13277691511,node
+Kalimera,hostel,"Avenida del Ciprés 235, Villa de Merlo",,,,,,https://www.openstreetmap.org/node/13281307846,2026-09-01,openstreetmap,-32.3424747,-65.0064483,13281307846,node
+margaritas,chalet,"Avenida del Ciprés, Villa de Merlo",,,,,,https://www.openstreetmap.org/node/13283252724,2026-09-01,openstreetmap,-32.3422592,-65.0102046,13283252724,node
+los estribos,chalet,"Avenida del Deporte, Villa de Merlo",,,,,,https://www.openstreetmap.org/node/13286226328,2026-09-01,openstreetmap,-32.3398546,-65.0040942,13286226328,node
+morada de zorro,chalet,"Avenida del Deporte, Villa de Merlo",,,,,,https://www.openstreetmap.org/node/13286236466,2026-09-01,openstreetmap,-32.3383061,-65.0037913,13286236466,node
+Altos del Sol,chalet,,,,,https://www.altosdelsol.com/merlosanluis.htm,,https://www.openstreetmap.org/way/201850098,2026-09-01,openstreetmap,-32.3412036,-64.9934003,201850098,way
+Hotel Casablanca,hotel,,,,,,,https://www.openstreetmap.org/way/251996642,2026-09-01,openstreetmap,-32.3460479,-65.0124259,251996642,way
+Haward Johnson,hotel,,,,,,,https://www.openstreetmap.org/way/252566420,2026-09-01,openstreetmap,-32.3674573,-65.0178732,252566420,way
+El Viejo Algarrobo - Hostería Serrana,hotel,"Chumamaya 2476, Merlo",+54 11 5701 0486,,,https://www.elviejoalgarrobo.com.ar/,,https://www.openstreetmap.org/way/324098853,2026-09-01,openstreetmap,-32.3401539,-64.9863783,324098853,way
+Camping Lyon,camp_site,"Los Teros 220, Villa de Merlo",+542656473829,info@lyonmerlo.com,,https://lyonmerlo.com,,https://www.openstreetmap.org/way/352321887,2026-09-01,openstreetmap,-32.3490089,-64.9665758,352321887,way
+Habitaciones de campo,hostel,,,,,,,https://www.openstreetmap.org/way/464130372,2026-09-01,openstreetmap,-32.3107812,-64.9835605,464130372,way
+Epic Hotel Villa de Merlo,hotel,,,,,,,https://www.openstreetmap.org/way/500254081,2026-09-01,openstreetmap,-32.3484643,-65.0038866,500254081,way
+Complejo La Quinta Resort,hotel,Román González 500,+54 2656 47 9598,info@laquintaresort.net,,https://www.laquintaresort.net/,,https://www.openstreetmap.org/way/552932558,2026-09-01,openstreetmap,-32.3163071,-65.0198673,552932558,way
+El Margaridas,chalet,"Camino del Cerro 782, Cerro de Oro",,,,,,https://www.openstreetmap.org/way/834382292,2026-09-01,openstreetmap,-32.3752966,-64.9892586,834382292,way
+Edificio central,chalet,,,,,,,https://www.openstreetmap.org/way/1113439893,2026-09-01,openstreetmap,-32.3492746,-64.9970234,1113439893,way
+,chalet,,,,,,,https://www.openstreetmap.org/way/1113439894,2026-09-01,openstreetmap,-32.349347,-64.9966611,1113439894,way
+,chalet,,,,,,,https://www.openstreetmap.org/way/1113439895,2026-09-01,openstreetmap,-32.3492139,-64.996622,1113439895,way
+Altos de Merlos Suite,hotel,"Avenida del Sol, Villa de Merlo",+54 2656 47 5318,info@altosdemerlosuites.com,,https://altosdemerlosuites.com/,,https://www.openstreetmap.org/way/1113439899,2026-09-01,openstreetmap,-32.3480547,-64.9963318,1113439899,way
+Hotel Algorrobo,hotel,,,,,,,https://www.openstreetmap.org/way/1408688621,2026-09-01,openstreetmap,-32.3476367,-64.9981583,1408688621,way
+,hotel,,,,,,,https://www.openstreetmap.org/way/1446822909,2026-09-01,openstreetmap,-32.3465991,-65.0095233,1446822909,way
+,hotel,,,,,,,https://www.openstreetmap.org/way/1446827085,2026-09-01,openstreetmap,-32.3442254,-65.0105411,1446827085,way
+,hotel,,,,,,,https://www.openstreetmap.org/way/1446827087,2026-09-01,openstreetmap,-32.3443295,-65.0107877,1446827087,way
+,hotel,,,,,,,https://www.openstreetmap.org/way/1446827088,2026-09-01,openstreetmap,-32.3443781,-65.0109776,1446827088,way
+,hotel,,,,,,,https://www.openstreetmap.org/way/1446827089,2026-09-01,openstreetmap,-32.344404,-65.0105191,1446827089,way

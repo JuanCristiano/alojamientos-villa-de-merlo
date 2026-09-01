@@ -1,0 +1,197 @@
+nombre,en_oficial,en_osm,mejor_candidato_osm,similitud,categoria_oficial,categoria_osm
+AHotel Decosuites,si,si,A Hotel Deco Suites,0.94,Apart Hotel,hotel
+Aires de Ámbar,si,no,Las Tres Marias,0.64,Cabañas,
+Al Pie del Morro,si,no,El Paseo del Zorzal,0.63,Vatt,
+Algarrobo,si,si,Hotel Algorrobo,0.89,Hotel,hotel
+Algarrobo Nieto,si,no,Hotel Algorrobo,0.67,Vatt,
+Alma Tierra,si,si,Cabañas Alma Mora,0.7,Cabañas,chalet
+Alpinas San Lorenzo,si,no,Cabañas La Belén,0.57,Cabañas,
+Amancay,si,si,Hostería Amancay,1.0,Hostería,hotel
+Ayllu,si,si,Cabañas Ayllu,1.0,Vatt,hostel
+Barranca del Indio,si,si,Barrancas del Sol,0.8,Cabañas,hotel
+Blessing,si,no,Cabañas La Belén,0.62,Vatt,
+Burung Hantu,si,no,Complejo Brisa Serrana,0.4,Cabañas,
+Casa Atardeceres,si,si,Pasos del Atardecer,0.69,Vatt,chalet
+Casa Colibri,si,no,Cabañas de Colores,0.57,Vatt,
+Colores,si,si,Cabañas de Colores,1.0,Hotel,hotel
+Complejo Calas,si,si,Complejo La Aldea,0.77,Cabañas,chalet
+Complejo Entre Marte y la Luna,si,no,Complejo Alta Luna,0.67,Cabañas,
+Complejo Galileo,si,si,Complejo La Aldea,0.73,Cabañas,chalet
+Complejo Los Espinillos de Merlo,si,si,Epic Hotel Villa de Merlo,0.69,Cabañas,hotel
+Cuyá,si,si,Cabañas Cuyà,1.0,Cabañas,chalet
+Despertar Serrano,si,si,Cabañas Despertar Serrano,1.0,Cabañas,hostel
+Dúplex Don Valentín,si,no,Cabañas Don Fausto,0.55,Cabañas,
+Dúplex El Remanso,si,no,Cabañas El Francés,0.57,Cabañas,
+Dúplex Sandra,si,no,Cabañas La Soñada,0.67,Vatt,
+Ecos de las Sierras,si,no,Hotel Mirasierras,0.61,Vatt,
+El Cardal,si,no,Cabañas El Jacarandá,0.67,Vatt,
+El Cortijo,si,si,Hotel El Cortijo,1.0,Hotel,hotel
+El Puente,si,no,Cabañas Pehuén,0.67,Hostería,
+El Viejo Algarrobo,si,si,El Viejo Algarrobo - Hostería Serrana,0.75,Hostería,hotel
+Epic Villa de Merlo,si,si,Epic Hotel Villa de Merlo,1.0,Hotel,hotel
+Estilo MB,si,no,los estribos,0.59,Hotel,
+Euzkadi,si,si,Cabañas Euskadi,0.86,Cabañas,chalet
+Guemes,si,no,Las Nubes Apart,0.55,Vatt,
+Horus,si,si,Cabañas Horus,1.0,Vatt,chalet
+Howard Johnson,si,si,Haward Johnson,0.93,Hotel,hotel
+La Candela,si,si,Posada Candela,1.0,Posada,hotel
+La Herencia,si,no,La Barraca,0.57,Vatt,
+La Soñada,si,si,Cabañas La Soñada,1.0,Cabañas,chalet
+La Tranquilidad,si,no,La Ludmila,0.56,Cabañas,
+Las Tinajas,si,no,Cabañas Las Lajas,0.67,Cabañas,
+Lo de Emilio,si,si,Lo de Emilio,1.0,Vatt,hostel
+Los Álamos,si,si,Posada Los Alamos,1.0,Posada,hotel
+Los Aromos,si,si,Cabañas Los Aromos,1.0,Vatt,chalet
+Los Basco´s,si,si,Los Paraísos,0.7,Vatt,chalet
+Los Damascos,si,si,Los Paraísos,0.75,Cabañas,chalet
+Luz del Rincón,si,no,AOMA Terrazas del Rincón,0.63,Vatt,
+Marisol Dolce,si,no,Clima Sol Hotel,0.57,Cabañas,
+Merlo Trail Lodge,si,no,La Herradura Village,0.53,Cabañas,
+Morada del Cóndor,si,si,morada de zorro,0.75,Cabañas,chalet
+Nogales del Rincón,si,si,AOMA Terrazas del Rincón,0.71,Cabañas,hotel
+Nona Olga,si,si,Cabañas Nona Olga,1.0,Cabañas,chalet
+Nona Olga II,si,si,Cabañas Nona Olga,1.0,Cabañas,chalet
+Oli House,si,no,Cabañas Horus,0.57,Vatt,
+Paradiso Hotel & Spa,si,si,Los Paraísos,0.78,Hotel,chalet
+Pio Pio,si,si,Cabañas & Spa Pio Pio,1.0,Cabañas,chalet
+Posada de las Sierras,si,si,Hotel Mirasierras,0.78,Vatt,hotel
+Rincón del Tomero,si,si,Rincón Dorado,0.77,Cabañas,chalet
+Rumi Cani,si,no,Complejo Ita Cami,0.59,Cabañas,
+Tara Inti,si,no,Antawara Cabañas de Montaña,0.56,Vatt,
+Tatiana,si,si,Tijuana,0.71,Vatt,hotel
+Terraza terraza Merlo Apartments,si,no,Tierra Mía Apart,0.54,Cabañas,
+Uma-In,si,no,Cabañas El Maitén,0.67,Cabañas,
+Hotel Colonial,no,si,,0.58,,hotel
+Hotel El Hornero,no,si,,0.55,,hotel
+Hotel Valle del Sol,no,si,,0.62,,hotel
+La Barraca,no,si,,0.67,,hotel
+Planetario Hotel,no,si,,0.61,,hotel
+Cabañas Agrippina,no,si,,0.5,,chalet
+Casa Grande HOSTEL,no,si,,0.62,,hostel
+Cabañas El Maitén,no,si,,0.67,,hotel
+Complejo Brisa Serrana,no,si,,0.6,,hotel
+Cerros del Sol,no,si,,0.55,,chalet
+Corazón de Montaña,no,si,,0.51,,hotel
+Cabañas El Jacarandá,no,si,,0.67,,chalet
+La Victoria,no,si,,0.57,,chalet
+Las Mariposas,no,si,,0.61,,hotel
+Tala Huasi,no,si,,0.53,,chalet
+Cabañas Medalla Milagrosa,no,si,,0.52,,chalet
+Cabañas Taparacu,no,si,,0.53,,chalet
+Cabañas Don Augusto,no,si,,0.52,,chalet
+Cabañas La Comarca,no,si,,0.62,,chalet
+El Paseo del Zorzal,no,si,,0.63,,chalet
+Lirios del Valle,no,si,,0.55,,chalet
+Antawara Cabañas de Montaña,no,si,,0.56,,hostel
+Casanovas Cabañas,no,si,,0.57,,chalet
+El Aljibe Cabañas,no,si,,0.62,,chalet
+Complejo Inca Viracocha,no,si,,0.65,,chalet
+Cabañas Altos del Centro,no,si,,0.55,,chalet
+Cabañas Khami,no,si,,0.5,,chalet
+Las Cabañas de Merlo,no,si,,0.67,,hostel
+Cabañas Quechalen,no,si,,0.5,,hostel
+Cabañas y Camping La Sorpresa,no,si,,0.53,,hostel
+Cabañas Ioká Ioká,no,si,,0.62,,hostel
+Complejo Don Gregorio,no,si,,0.54,,chalet
+Cabañas Lynch,no,si,,0.44,,hostel
+Cabañas Dalga Inn,no,si,,0.57,,chalet
+Cabañas Duplex Aguaribay,no,si,,0.56,,chalet
+Cabañas Sierras Doradas,no,si,,0.64,,chalet
+Cabañas y Apart El Rincón de Iri-Nan,no,si,,0.59,,chalet
+Cabañas El Francés,no,si,,0.57,,hostel
+Cabañas Pehuén,no,si,,0.67,,chalet
+Posada De Campo Maia,no,si,,0.63,,hostel
+Cabañas Las Lajas,no,si,,0.67,,chalet
+Cabaña Mapaná,no,si,,0.62,,chalet
+Cabañas La Herradura,no,si,,0.52,,chalet
+Complejo Pasos Malos,no,si,,0.67,,hotel
+Cabañas Don Fausto,no,si,,0.55,,chalet
+Cabañas Palas de Rey,no,si,,0.57,,chalet
+Complejo Sagrado Corazón de Jesús,no,si,,0.49,,chalet
+Complejo Mi Viejo Vicente,no,si,,0.59,,chalet
+Cabañas Costa del Sol,no,si,,0.56,,chalet
+Camino del Cerro,no,si,,0.67,,chalet
+Cabañas Cinco Soles,no,si,,0.58,,chalet
+Cabañas de Troncos La Laguna,no,si,,0.48,,chalet
+El Refugio de los Pajaros,no,si,,0.5,,chalet
+Cabañas Cerro Nevado,no,si,,0.52,,chalet
+Cabañas Kamiare,no,si,,0.47,,chalet
+Naguan Apart Hotel,no,si,,0.53,,hotel
+Altos de Merlo Apart,no,si,,0.67,,chalet
+La Loma Resort,no,si,,0.52,,hotel
+Tierra Mía Apart,no,si,,0.59,,hotel
+Cabañas La Morada de Merlo,no,si,,0.64,,chalet
+Cabañas Rincón de los Duendes,no,si,,0.59,,chalet
+Cabañas Sombras del Viento,no,si,,0.52,,chalet
+Toay Cabañas,no,si,,0.53,,chalet
+Cabañas Kupal,no,si,,0.44,,chalet
+Cabañas El Refugio de la Luna,no,si,,0.51,,chalet
+Cabañas El Desafío,no,si,,0.5,,chalet
+Cabañas Inticami,no,si,,0.56,,chalet
+Cabañas Babin Kuk,no,si,,0.44,,chalet
+Cabañas Ruca Mawida,no,si,,0.5,,chalet
+Duplex Cerro de los Pájaros,no,si,,0.52,,chalet
+Cabañas Kidamalau,no,si,,0.5,,chalet
+Complejo Corazón de Montaña,no,si,,0.6,,chalet
+Dorado Del Sol,no,si,,0.65,,chalet
+Las Nubes Apart,no,si,,0.55,,chalet
+Cabañas Ayres del Cerro,no,si,,0.56,,chalet
+Cabañas Aldea Blanca,no,si,,0.53,,chalet
+Cabañas La Belén,no,si,,0.62,,chalet
+Cabañas Escondidas,no,si,,0.62,,chalet
+Cabañas Los Nonos,no,si,,0.57,,chalet
+Cabañas Angeland,no,si,,0.67,,chalet
+Casa Nazareth,no,si,,0.62,,chalet
+Ayflo Cabañas,no,si,,0.6,,chalet
+Chalets ZB I y II,no,si,,0.42,,chalet
+Cabañas Samana Huasi,no,si,,0.53,,chalet
+Parque Golf Hotel,no,si,,0.54,,hotel
+Cabañas Unquen,no,si,,0.5,,chalet
+Posada Los Antiguos,no,si,,0.6,,chalet
+Complejo Los Tabaquillos,no,si,,0.65,,chalet
+Cabañas El Ruiseñor,no,si,,0.54,,chalet
+A Mi Manera,no,si,,0.57,,chalet
+Departamentos Los Almendros,no,si,,0.67,,hotel
+La Ludmila,no,si,,0.6,,hotel
+Cabañas Cerro Dorado,no,si,,0.48,,chalet
+Cabañas Inti Huasi,no,si,,0.53,,chalet
+Flamenco,no,si,,0.57,,hotel
+Cabañas Monteolivos,no,si,,0.5,,chalet
+Cabañas Cohue,no,si,,0.57,,chalet
+Apart Hotel Piscu Yaco,no,si,,0.57,,hotel
+Camping Calaguala,no,si,,0.57,,camp_site
+Complejo Cerro de Oro,no,si,,0.6,,hotel
+Cerro de Oro,no,si,,0.62,,camp_site
+Camping Municipal de Merlo,no,si,,0.64,,camp_site
+Clima Sol Hotel,no,si,,0.57,,hotel
+Mirador del Horizonte,no,si,,0.58,,chalet
+Chumamaya,no,si,,0.62,,chalet
+Cabañas Balcones Apart & boutique,no,si,,0.59,,chalet
+La Posada Del Tiempo,no,si,,0.63,,hotel
+Dormis de Agustin,no,si,,0.54,,hostel
+Cabañas de los Comechingones,no,si,,0.5,,chalet
+Blla Vista,no,si,,0.53,,chalet
+El Campo Departamentos,no,si,,0.55,,chalet
+Hotel Torres del Sol,no,si,,0.53,,hotel
+Hotel Cana Blaya,no,si,,0.59,,hotel
+Hotel Ayres del Bosque,no,si,,0.52,,hotel
+Hotel Lida,no,si,,0.53,,hotel
+Cabañas Sagrado Corazon Y Corazón De Maria,no,si,,0.43,,chalet
+La Herradura Village,no,si,,0.53,,chalet
+Camping Municipal de Carpinteria,no,si,,0.44,,camp_site
+Merlin,no,si,,0.5,,guest_house
+Las Tres Marias,no,si,,0.64,,chalet
+Entrepiedras,no,si,,0.53,,chalet
+Rahuen,no,si,,0.5,,hotel
+Pisis,no,si,,0.5,,chalet
+Kalimera,no,si,,0.63,,hostel
+margaritas,no,si,,0.53,,chalet
+los estribos,no,si,,0.64,,chalet
+Altos del Sol,no,si,,0.58,,chalet
+Hotel Casablanca,no,si,,0.59,,hotel
+Camping Lyon,no,si,,0.52,,camp_site
+Habitaciones de campo,no,si,,0.57,,hostel
+Complejo La Quinta Resort,no,si,,0.63,,hotel
+El Margaridas,no,si,,0.64,,chalet
+Edificio central,no,si,,0.5,,chalet
+Altos de Merlos Suite,no,si,,0.64,,hotel

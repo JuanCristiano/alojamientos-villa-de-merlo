@@ -1,0 +1,177 @@
+Reporte de limpieza — 62 fichas procesadas
+Salida: C:\Users\jcris\merlo-alojamientos\data\processed\alojamientos_oficial_clean.csv
+
+== Cambios aplicados por campo (55 en total) ==
+  [telefonos] AHotel Decosuites
+    antes:   '  2664006624'
+    después: '2664006624'
+  [telefonos] Al Pie del Morro
+    antes:   ' 2656474308 | 2664842096'
+    después: '2656474308 | 2664842096'
+  [telefonos] Alpinas San Lorenzo
+    antes:   '2664330948 Facebook: Alpinas.San Lorenzo'
+    después: '2664330948'
+  [telefonos] Amancay
+    antes:   '2664020524 // 2664891627'
+    después: '2664020524 | 2664891627'
+  [telefonos] Barranca del Indio
+    antes:   '116799-1437'
+    después: '1167991437'
+  [telefonos] Blessing
+    antes:   '011-32580615'
+    después: '01132580615'
+  [telefonos] Burung Hantu
+    antes:   '2664259455 // 1126355548'
+    después: '2664259455 | 1126355548'
+  [telefonos] Colores
+    antes:   '02656-475355 | 1161888912'
+    después: '02656475355 | 1161888912'
+  [telefonos] Complejo Galileo
+    antes:   '2664 734713'
+    después: '2664734713'
+  [telefonos] Complejo Los Espinillos de Merlo
+    antes:   '115412-2649'
+    después: '1154122649'
+  [telefonos] Dúplex El Remanso
+    antes:   '2664-164-685'
+    después: '2664164685'
+  [telefonos] El Cardal
+    antes:   '2267 675933'
+    después: '2267675933'
+  [telefonos] El Viejo Algarrobo
+    antes:   '2664 771600'
+    después: '2664771600'
+  [telefonos] Epic Villa de Merlo
+    antes:   '2665 470800  / 2664577698'
+    después: '2665470800 | 2664577698'
+  [telefonos] Estilo MB
+    antes:   '0266 5295237 / 2656 470120'
+    después: '02665295237 | 2656470120'
+  [telefonos] Howard Johnson
+    antes:   '02656-473600  / 2664506986'
+    después: '02656473600 | 2664506986'
+  [telefonos] La Candela
+    antes:   '2664011832 // 01136053952'
+    después: '2664011832 | 01136053952'
+  [telefonos] La Herencia
+    antes:   '11 5923 8242'
+    después: '1159238242'
+  [telefonos] Las Tinajas
+    antes:   ' 2665283645'
+    después: '2665283645'
+  [telefonos] Los Basco´s
+    antes:   '2657 529095'
+    después: '2657529095'
+  [telefonos] Luz del Rincón
+    antes:   '341 6864657'
+    después: '3416864657'
+  [telefonos] Morada del Cóndor
+    antes:   '11 5959 2545'
+    después: '1159592545'
+  [telefonos] Nogales del Rincón
+    antes:   '  2664882848'
+    después: '2664882848'
+  [telefonos] Paradiso Hotel & Spa
+    antes:   '2664256208 Telefono fijo: 2656475118'
+    después: '2664256208 | 2656475118'
+  [telefonos] Pio Pio
+    antes:   '  1144171869'
+    después: '1144171869'
+  [telefonos] Rincón del Tomero
+    antes:   '116153-7904 (Evelyn) // 115843-5022  (Rita)'
+    después: '1161537904 | 1158435022'
+  [telefonos] Tara Inti
+    antes:   '2664 555211'
+    después: '2664555211'
+  [telefonos] Uma-In
+    antes:   '  2664253183'
+    después: '2664253183'
+  [email] AHotel Decosuites
+    antes:   'Hotelmerlosanluis@Gmail.Com'
+    después: 'hotelmerlosanluis@gmail.com'
+  [email] Algarrobo
+    antes:   'Hotelalgarrobo@Gmail.Com'
+    después: 'hotelalgarrobo@gmail.com'
+  [email] Barranca del Indio
+    antes:   'barrancadelindiomerlo@gmail. com'
+    después: 'barrancadelindiomerlo@gmail.com'
+  [email] Casa Atardeceres
+    antes:   'Casaatardeceres@Hotmail.Com'
+    después: 'casaatardeceres@hotmail.com'
+  [email] Complejo Calas
+    antes:   'Calasmerlo@Gmail.Com'
+    después: 'calasmerlo@gmail.com'
+  [email] Complejo Galileo
+    antes:   'Merlo.Galileo@Gmail.Com'
+    después: 'merlo.galileo@gmail.com'
+  [email] Complejo Los Espinillos de Merlo
+    antes:   'complejolosespinillos@gmail. com'
+    después: 'complejolosespinillos@gmail.com'
+  [email] Dúplex El Remanso
+    antes:   'Complejoremansomerlo@gmail.com'
+    después: 'complejoremansomerlo@gmail.com'
+  [email] El Cortijo
+    antes:   'Reservas@Elcortijomerlo.Com.Ar'
+    después: 'reservas@elcortijomerlo.com.ar'
+  [email] Estilo MB
+    antes:   'Hotelestilombmsl@Gmail.Com'
+    después: 'hotelestilombmsl@gmail.com'
+  [email] Howard Johnson
+    antes:   'Reservas@Hjmerlo.Com.Ar Ver Página'
+    después: 'reservas@hjmerlo.com.ar'
+  [email] La Soñada
+    antes:   'info@cabaniaslasoniada.com Web: www.cabaniaslasoniada.com.ar'
+    después: 'info@cabaniaslasoniada.com'
+  [email] Los Damascos
+    antes:   'DamianPresutti1@gmail.com'
+    después: 'damianpresutti1@gmail.com'
+  [email] Marisol Dolce
+    antes:   'labonituramerlosanluis@gmail. com'
+    después: 'labonituramerlosanluis@gmail.com'
+  [email] Nona Olga
+    antes:   'Haydblanco@Yahoo.Com.Ar'
+    después: 'haydblanco@yahoo.com.ar'
+  [email] Nona Olga II
+    antes:   'Haydblanco@Yahoo.Com.Ar'
+    después: 'haydblanco@yahoo.com.ar'
+  [instagram] Algarrobo
+    antes:   'HotelAlgarrobo_merlo'
+    después: '@HotelAlgarrobo_merlo'
+  [instagram] Complejo Galileo
+    antes:   'ComplejoGalileo'
+    después: '@ComplejoGalileo'
+  [instagram] El Cortijo
+    antes:   'Hotel_Elcortijo'
+    después: '@Hotel_Elcortijo'
+  [instagram] Epic Villa de Merlo
+    antes:   'Epic.Hotel.Merlo'
+    después: '@Epic.Hotel.Merlo'
+  [instagram] Estilo MB
+    antes:   'HotelEstiloMbMerlo'
+    después: '@HotelEstiloMbMerlo'
+  [instagram] Los Álamos
+    antes:   'Posadalosalamos.merlo Facebook: Posada Los Alamos Merlo San Luis Tik Tok: posada.los.alamos.merlo'
+    después: '@Posadalosalamos.merlo Facebook: Posada Los Alamos Merlo San Luis Tik Tok: posada.los.alamos.merlo'
+  [instagram] Los Aromos
+    antes:   'losaromos_'
+    después: '@losaromos_'
+  [web] Epic Villa de Merlo
+    antes:   '  epichotelmerlo.com'
+    después: 'http://epichotelmerlo.com'
+  [web] Las Tinajas
+    antes:   'www.campolastinajas.com.ar'
+    después: 'http://www.campolastinajas.com.ar'
+  [etiquetas] La Soñada
+    antes:   'Accesibilidad | Pileta | Pileta Climatizada'
+    después: 'Accesible | Pileta | Pileta Climatizada'
+  [etiquetas] Tara Inti
+    antes:   'Accesibilidad | Apto para Celíacos'
+    después: 'Accesible | Apto para Celíacos'
+
+== Posibles duplicados (NO fusionados — requieren revisión manual) ==
+  Ecos de las Sierras: nombre parecido a 'Posada de las Sierras' (similitud 0.85)
+  Posada de las Sierras: nombre parecido a 'Ecos de las Sierras' (similitud 0.85)
+  Nona Olga: nombre parecido a 'Nona Olga II' (similitud 0.86)
+  Nona Olga II: nombre parecido a 'Nona Olga' (similitud 0.86)
+  Complejo Calas: misma dirección que ['Complejo Entre Marte y la Luna']
+  Complejo Entre Marte y la Luna: misma dirección que ['Complejo Calas']
