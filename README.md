@@ -149,8 +149,4 @@ real.
 - Revisar a mano los casos marcados en `posible_duplicado` dentro del oficial
   (Ecos de las Sierras/Posada de las Sierras, Nona Olga/Nona Olga II,
   Complejo Calas/Complejo Entre Marte y la Luna).
-- Armar un informe breve (una página) para presentar el hallazgo a la
-  Secretaría de Turismo de Villa de Merlo, encuadrado como propuesta de
-  mejora de calidad de datos del directorio público — no como fiscalización
-  de negocios.
-- Subir el proyecto a GitHub con este README como documentación principal.
+
